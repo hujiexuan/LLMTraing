@@ -7,3 +7,5 @@
 **/yarn.lock
 dist/
 build/
+bert_sentiment_amazon_*
+bert_sentiment_model_*
